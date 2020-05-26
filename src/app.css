@@ -1,0 +1,50 @@
+.slider_1, .slider_2, .slider_3, .slider_4 {
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+  border-radius: 4px;
+  padding: 50px 10px;;
+  width: 100%;
+  margin: 2px;
+}
+
+.slider_1 {
+  background: url(https://sun1-16.userapi.com/vpJNmDkez7foEsxGj5Fyq6MHyV7GsFjiPuLKew/P94aLfnQUbo.jpg) repeat top -154px right -200px / 899px;
+}
+
+.slider_2 {
+  background: url(https://sun1-21.userapi.com/gEpqBDYqiUyzVLaNJrESWbCe4ijQhYcBiEmKAw/2NKGBKI-wyE.jpg) repeat top -154px right -200px / 899px;
+}
+
+.slider_3 {
+  background: url(https://sun1-21.userapi.com/gEpqBDYqiUyzVLaNJrESWbCe4ijQhYcBiEmKAw/2NKGBKI-wyE.jpg) repeat top -154px right -200px / 899px;
+}
+
+.slider_4 {
+  background: url(https://sun1-21.userapi.com/gEpqBDYqiUyzVLaNJrESWbCe4ijQhYcBiEmKAw/2NKGBKI-wyE.jpg) repeat top -154px right -200px / 899px;
+}
+
+.promo-title {
+  font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    /*line-height: 46px;*/
+    color: #f3f2f5;
+    text-align: center;
+}
+
+.main_h1 {
+  text-align: center;
+}
+
+.MuiCardActionArea-root {
+  text-align: center;
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+
+.MuiCardMedia-img {
+  border-radius: 5px;
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+
+.MuiTypography-h5 {
+  text-align: center;
+}
